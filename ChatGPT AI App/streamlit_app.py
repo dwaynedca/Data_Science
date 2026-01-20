@@ -1,7 +1,7 @@
 from openai import OpenAI
 import streamlit as st
 
-user = OpenAI(api_key="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")
+#user = OpenAI(api_key="") user add key
 gptmodel = "gpt-3.5-turbo"
 userrole = "user"
 
